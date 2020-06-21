@@ -1,0 +1,6 @@
+100	 Anushka	EC	8.9	anushka@gmail.com	9898989899
+239	 Sunidhi	CSE	9.0	sunidhi@gmail.com	9999999999
+247	 Urvashi	CSE	9.7	urvi2000@gmail.com	7878787877
+102	 Shrey	EC	9.8	shrey@gmail.com	5555555555
+103	 Heer	EE	7.8	heer@yahoo.com	9999999999
+121	 Shreyansghi	EE	9.8	dfgh@fghj.ghj	9999999999

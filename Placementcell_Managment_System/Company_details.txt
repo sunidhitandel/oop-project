@@ -1,0 +1,6 @@
+Amazon	amazonnn@amazonn.com	1600000	9.0
+Google	google@google.com	1700000	8.0
+Google	google@google.com	1700000	8.0
+Tesla	tesla@tesla.org	1200000	8.5
+Microsoft	microsoft@micrsoft.com	1600000	7.0
+Flipkart	flipkart@flipkart.com	1400000	7.0
